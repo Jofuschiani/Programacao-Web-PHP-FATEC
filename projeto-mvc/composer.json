@@ -1,0 +1,15 @@
+{
+    "name": "php/projetomvc",
+    "autoload": {
+        "psr-4": {
+            "Php\\Projetomvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jose victor",
+            "email": "josevictorcaravantealves10@hotmail.com"
+        }
+    ],
+    "require": {}
+}
